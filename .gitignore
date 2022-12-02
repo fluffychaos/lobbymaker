@@ -17,5 +17,6 @@ Cargo.lock
 # The .env file
 .env
 
-# VSCode files
-.vscode/
+# Database files
+*.sqlite
+*.db
